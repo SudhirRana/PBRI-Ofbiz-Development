@@ -1,0 +1,4 @@
+2019-08-23 11:59:40,691 |jsse-nio-8443-exec-9 |RequestHandler                |E| Request SetTimeZoneFromBrowser caused an error with the following message: User authorization is required for this service: SetTimeZoneFromBrowser
+2019-08-23 12:00:45,774 |jsse-nio-8443-exec-1 |CategoryServices              |E| null
+2019-08-23 12:01:09,141 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-08-23 12:59:02,517 |sse-nio-8443-exec-10 |CategoryServices              |E| null

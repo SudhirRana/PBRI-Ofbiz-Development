@@ -1,0 +1,64 @@
+2019-11-16 14:49:33,779 |kJoinPool-1-worker-2 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 14:49:33,779 |kJoinPool-1-worker-2 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 14:50:18,905 |jsse-nio-8443-exec-5 |CategoryServices              |E| null
+2019-11-16 14:51:06,170 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 14:54:54,151 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 14:54:57,215 |jsse-nio-8443-exec-7 |CategoryServices              |E| null
+2019-11-16 15:00:28,497 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 15:00:28,497 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 15:00:47,067 |jsse-nio-8443-exec-4 |CategoryServices              |E| null
+2019-11-16 15:02:30,798 |kJoinPool-1-worker-3 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 15:02:30,798 |kJoinPool-1-worker-3 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 15:02:37,758 |jsse-nio-8443-exec-4 |CategoryServices              |E| null
+2019-11-16 15:03:00,866 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 15:03:03,616 |jsse-nio-8443-exec-4 |CategoryServices              |E| null
+2019-11-16 15:31:00,917 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 15:31:00,917 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 15:31:20,328 |jsse-nio-8443-exec-4 |CategoryServices              |E| null
+2019-11-16 16:24:05,327 |kJoinPool-1-worker-2 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 16:24:05,327 |kJoinPool-1-worker-2 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 16:24:58,704 |jsse-nio-8443-exec-8 |RequestHandler                |E| Request SetTimeZoneFromBrowser caused an error with the following message: User authorization is required for this service: SetTimeZoneFromBrowser
+2019-11-16 16:25:06,504 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 16:25:10,783 |jsse-nio-8443-exec-8 |CategoryServices              |E| null
+2019-11-16 16:25:15,602 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 16:25:26,955 |jsse-nio-8443-exec-1 |CategoryServices              |E| null
+2019-11-16 16:25:31,001 |jsse-nio-8443-exec-9 |CategoryServices              |E| null
+2019-11-16 16:39:43,329 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 16:39:43,329 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 16:49:06,155 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 16:56:44,755 |kJoinPool-1-worker-3 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 16:56:44,755 |kJoinPool-1-worker-3 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 16:58:27,106 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 16:58:37,682 |jsse-nio-8443-exec-8 |CategoryServices              |E| null
+2019-11-16 17:00:22,408 |sse-nio-8443-exec-10 |CategoryServices              |E| null
+2019-11-16 17:00:22,444 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 17:00:32,565 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 17:00:59,666 |sse-nio-8443-exec-11 |CategoryServices              |E| null
+2019-11-16 17:01:02,225 |jsse-nio-8443-exec-3 |CategoryServices              |E| null
+2019-11-16 17:01:42,035 |kJoinPool-1-worker-0 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 17:01:42,035 |kJoinPool-1-worker-0 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 17:02:03,535 |jsse-nio-8443-exec-7 |CategoryServices              |E| null
+2019-11-16 17:02:08,233 |sse-nio-8443-exec-10 |CategoryServices              |E| null
+2019-11-16 17:02:39,761 |jsse-nio-8443-exec-1 |CategoryServices              |E| null
+2019-11-16 17:02:45,859 |jsse-nio-8443-exec-5 |CategoryServices              |E| null
+2019-11-16 17:06:28,385 |jsse-nio-8443-exec-3 |CategoryServices              |E| null
+2019-11-16 17:06:33,358 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 17:08:23,692 |jsse-nio-8443-exec-5 |CategoryServices              |E| null
+2019-11-16 17:08:26,204 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 17:11:05,203 |jsse-nio-8443-exec-3 |CategoryServices              |E| null
+2019-11-16 17:11:08,262 |jsse-nio-8443-exec-1 |CategoryServices              |E| null
+2019-11-16 17:12:33,038 |sse-nio-8443-exec-14 |CategoryServices              |E| null
+2019-11-16 17:18:52,277 |kJoinPool-1-worker-0 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 17:18:52,278 |kJoinPool-1-worker-0 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 17:19:22,199 |jsse-nio-8443-exec-8 |CategoryServices              |E| null
+2019-11-16 17:21:15,379 |jsse-nio-8443-exec-8 |CategoryServices              |E| null
+2019-11-16 17:22:06,139 |jsse-nio-8443-exec-5 |CategoryServices              |E| null
+2019-11-16 17:22:38,974 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 18:26:24,299 |kJoinPool-1-worker-3 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-11-16 18:26:24,304 |kJoinPool-1-worker-3 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Pictures/PBRI-Ofbiz-pro-upload/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-11-16 18:27:18,108 |sse-nio-8443-exec-11 |CategoryServices              |E| null
+2019-11-16 18:27:23,479 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 18:27:39,292 |jsse-nio-8443-exec-2 |CategoryServices              |E| null
+2019-11-16 18:27:43,718 |jsse-nio-8443-exec-6 |CategoryServices              |E| null
+2019-11-16 18:27:46,844 |jsse-nio-8443-exec-8 |CategoryServices              |E| null
+2019-11-16 18:33:21,690 |sse-nio-8443-exec-12 |CategoryServices              |E| null

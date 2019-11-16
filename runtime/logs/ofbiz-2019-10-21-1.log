@@ -1,0 +1,695 @@
+2019-10-21 16:02:18,022 |main                 |ContainerLoader               |I| [Startup] Loading containers...
+2019-10-21 16:02:18,317 |main                 |ContainerLoader               |I| Loading container: component-container
+2019-10-21 16:02:18,333 |main                 |ComponentContainer            |I| Auto-Loading component directory : [/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework]
+2019-10-21 16:02:18,375 |main                 |ComponentContainer            |I| Added class path for component : [base]
+2019-10-21 16:02:18,394 |main                 |ComponentContainer            |I| Added class path for component : [entity]
+2019-10-21 16:02:18,418 |main                 |ComponentContainer            |I| Added class path for component : [security]
+2019-10-21 16:02:18,435 |main                 |ComponentContainer            |I| Added class path for component : [datafile]
+2019-10-21 16:02:18,452 |main                 |ComponentContainer            |I| Added class path for component : [minilang]
+2019-10-21 16:02:18,473 |main                 |ComponentContainer            |I| Added class path for component : [common]
+2019-10-21 16:02:18,489 |main                 |ComponentContainer            |I| Added class path for component : [service]
+2019-10-21 16:02:18,507 |main                 |ComponentContainer            |I| Added class path for component : [catalina]
+2019-10-21 16:02:18,524 |main                 |ComponentContainer            |I| Added class path for component : [entityext]
+2019-10-21 16:02:18,543 |main                 |ComponentContainer            |I| Added class path for component : [webapp]
+2019-10-21 16:02:18,558 |main                 |ComponentContainer            |I| Added class path for component : [widget]
+2019-10-21 16:02:18,578 |main                 |ComponentContainer            |I| Added class path for component : [testtools]
+2019-10-21 16:02:18,594 |main                 |ComponentContainer            |I| Added class path for component : [webtools]
+2019-10-21 16:02:18,594 |main                 |ComponentContainer            |I| Auto-Loading component directory : [/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/themes]
+2019-10-21 16:02:18,668 |main                 |ComponentContainer            |I| Added class path for component : [bluelight]
+2019-10-21 16:02:18,668 |main                 |ComponentContainer            |I| Added class path for component : [common-theme]
+2019-10-21 16:02:18,669 |main                 |ComponentContainer            |I| Added class path for component : [flatgrey]
+2019-10-21 16:02:18,669 |main                 |ComponentContainer            |I| Added class path for component : [rainbowstone]
+2019-10-21 16:02:18,669 |main                 |ComponentContainer            |I| Added class path for component : [tomahawk]
+2019-10-21 16:02:18,669 |main                 |ComponentContainer            |I| Auto-Loading component directory : [/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications]
+2019-10-21 16:02:18,688 |main                 |ComponentContainer            |I| Added class path for component : [datamodel]
+2019-10-21 16:02:18,700 |main                 |ComponentContainer            |I| Added class path for component : [party]
+2019-10-21 16:02:18,711 |main                 |ComponentContainer            |I| Added class path for component : [securityext]
+2019-10-21 16:02:18,725 |main                 |ComponentContainer            |I| Added class path for component : [content]
+2019-10-21 16:02:18,746 |main                 |ComponentContainer            |I| Added class path for component : [workeffort]
+2019-10-21 16:02:18,760 |main                 |ComponentContainer            |I| Added class path for component : [product]
+2019-10-21 16:02:18,774 |main                 |ComponentContainer            |I| Added class path for component : [manufacturing]
+2019-10-21 16:02:18,787 |main                 |ComponentContainer            |I| Added class path for component : [accounting]
+2019-10-21 16:02:18,799 |main                 |ComponentContainer            |I| Added class path for component : [humanres]
+2019-10-21 16:02:18,812 |main                 |ComponentContainer            |I| Added class path for component : [order]
+2019-10-21 16:02:18,827 |main                 |ComponentContainer            |I| Added class path for component : [marketing]
+2019-10-21 16:02:18,844 |main                 |ComponentContainer            |I| Added class path for component : [commonext]
+2019-10-21 16:02:18,844 |main                 |ComponentContainer            |I| Auto-Loading component directory : [/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins]
+2019-10-21 16:02:18,880 |main                 |ComponentContainer            |W| Location '/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/accounts/dtd' does not exist
+2019-10-21 16:02:18,880 |main                 |ComponentContainer            |I| Added class path for component : [accounts]
+2019-10-21 16:02:18,881 |main                 |ComponentContainer            |I| Added class path for component : [patanjali]
+2019-10-21 16:02:18,882 |main                 |ComponentContainer            |I| All components loaded
+2019-10-21 16:02:18,883 |main                 |ContainerLoader               |I| Loaded container: component-container
+2019-10-21 16:02:18,883 |main                 |ContainerLoader               |I| [Startup] Loading component containers...
+2019-10-21 16:02:18,883 |main                 |ContainerLoader               |I| Loading container: delegator-container
+2019-10-21 16:02:18,884 |main                 |ContainerLoader               |I| Loaded container: delegator-container
+2019-10-21 16:02:18,885 |main                 |ContainerLoader               |I| Loading container: service-container
+2019-10-21 16:02:18,887 |main                 |ContainerLoader               |I| Loaded container: service-container
+2019-10-21 16:02:18,888 |main                 |ContainerLoader               |I| Loading container: catalina-container
+2019-10-21 16:02:24,154 |main                 |CatalinaContainer             |I| Tomcat Connector[AJP/1.3-8009]: set scheme=http
+2019-10-21 16:02:24,158 |main                 |CatalinaContainer             |I| Tomcat Connector[AJP/1.3-8009]: set secure=false
+2019-10-21 16:02:24,309 |main                 |CatalinaContainer             |I| Tomcat Connector[AJP/1.3-8009]: set URIEncoding=UTF-8
+2019-10-21 16:02:24,311 |main                 |CatalinaContainer             |I| Tomcat Connector[AJP/1.3-8009]: set xpoweredBy=false
+2019-10-21 16:02:24,321 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: enabled HTTP/2
+2019-10-21 16:02:24,321 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: set scheme=http
+2019-10-21 16:02:24,321 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: set secure=false
+2019-10-21 16:02:24,321 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: set URIEncoding=UTF-8
+2019-10-21 16:02:24,321 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: set xpoweredBy=false
+2019-10-21 16:02:24,321 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: set compression=on
+2019-10-21 16:02:24,324 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8080]: set compressibleMimeType=text/html,text/xml,text/plain,text/css,application/javascript,application/json
+2019-10-21 16:02:24,324 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: enabled HTTP/2
+2019-10-21 16:02:24,324 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set scheme=https
+2019-10-21 16:02:24,324 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set secure=true
+2019-10-21 16:02:24,324 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set SSLEnabled=true
+2019-10-21 16:02:24,325 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set URIEncoding=UTF-8
+2019-10-21 16:02:24,326 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set xpoweredBy=false
+2019-10-21 16:02:24,326 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set compression=on
+2019-10-21 16:02:24,326 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set compressibleMimeType=text/html,text/xml,text/plain,text/css,application/javascript,application/json
+2019-10-21 16:02:24,326 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set sslImplementationName=org.apache.tomcat.util.net.jsse.JSSEImplementation
+2019-10-21 16:02:24,332 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set algorithm=SunX509
+2019-10-21 16:02:24,334 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set keystoreFile=framework/base/config/ofbizssl.jks
+2019-10-21 16:02:24,334 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set keystoreType=JKS
+2019-10-21 16:02:24,335 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set keyAlias=ofbiz
+2019-10-21 16:02:24,335 |main                 |CatalinaContainer             |I| Tomcat Connector[HTTP/1.1-8443]: set keyPass
+2019-10-21 16:02:24,356 |main                 |CatalinaContainer             |I| Creating context [PatanjaliWeb]
+2019-10-21 16:02:24,356 |main                 |CatalinaContainer             |I| Creating context [accounts]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [ordermgr-js]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [ofbizsetup]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [SalesForceAutomation]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [marketing]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [order]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [humanres]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [ap]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [ar]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [accounting]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [manufacturing]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [facility]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [catalog]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [ical]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [workeffort]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [contentimages]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [content]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [party]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [tomahawk]
+2019-10-21 16:02:24,357 |main                 |CatalinaContainer             |I| Creating context [rainbowstone]
+2019-10-21 16:02:24,358 |main                 |CatalinaContainer             |I| Creating context [flatgrey]
+2019-10-21 16:02:24,358 |main                 |CatalinaContainer             |I| Creating context [images]
+2019-10-21 16:02:24,358 |main                 |CatalinaContainer             |I| Creating context [common-theme]
+2019-10-21 16:02:24,358 |main                 |CatalinaContainer             |I| Creating context [bluelight]
+2019-10-21 16:02:24,358 |main                 |CatalinaContainer             |I| Creating context [webtools]
+2019-10-21 16:02:24,648 |main                 |ContainerLoader               |I| Loaded container: catalina-container
+2019-10-21 16:02:24,652 |main                 |ContainerLoader               |I| [Startup] Starting containers...
+2019-10-21 16:02:24,652 |main                 |ContainerLoader               |I| Starting container component-container
+2019-10-21 16:02:24,652 |main                 |ContainerLoader               |I| Started container component-container
+2019-10-21 16:02:24,652 |main                 |ContainerLoader               |I| Starting container delegator-container
+2019-10-21 16:02:24,683 |delegator-startup-1  |DelegatorFactoryImpl          |I| Creating new delegator [default] (delegator-startup-1)
+2019-10-21 16:02:25,388 |delegator-startup-1  |ModelViewEntity               |W| [TestingCryptoRawView]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: rawEncryptedValue
+2019-10-21 16:02:25,389 |delegator-startup-1  |ModelViewEntity               |W| [TestingCryptoRawView]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: rawSaltedEncryptedValue
+2019-10-21 16:02:25,463 |delegator-startup-1  |ModelViewEntity               |W| [OrderItemQuantityReportGroupByItem]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: quantityOrdered
+2019-10-21 16:02:25,464 |delegator-startup-1  |ModelViewEntity               |W| [OrderItemQuantityReportGroupByItem]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: quantityOpen
+2019-10-21 16:02:25,464 |delegator-startup-1  |ModelViewEntity               |W| [OrderItemQuantityReportGroupByProduct]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: quantityOrdered
+2019-10-21 16:02:25,465 |delegator-startup-1  |ModelViewEntity               |W| [OrderItemQuantityReportGroupByProduct]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: quantityOpen
+2019-10-21 16:02:25,466 |delegator-startup-1  |ModelViewEntity               |W| [OrderReportSalesGroupByProduct]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: quantityOrdered
+2019-10-21 16:02:25,467 |delegator-startup-1  |ModelViewEntity               |W| [OrderReportSalesGroupByProduct]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: amount
+2019-10-21 16:02:25,478 |delegator-startup-1  |ModelViewEntity               |W| [OrderItemAndShipGrpInvResAndItemSum]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: quantityOrdered
+2019-10-21 16:02:25,481 |delegator-startup-1  |ModelViewEntity               |W| [OrderItemAndShipGrpInvResAndItemSum]: Conversion for complex-alias needs to be implemented for cache and in-memory eval stuff to work correctly, will not work for alias: totQuantityAvailable
+2019-10-21 16:02:25,511 |delegator-startup-1  |ModelReader                   |I| Finished loading entities; #Entities=844 #ViewEntities=271 #Fields=8838 #Relationships=2905 #AutoRelationships=2140
+2019-10-21 16:02:25,517 |delegator-startup-1  |GenericDelegator              |I| Doing entity definition check...
+2019-10-21 16:02:25,522 |delegator-startup-1  |ModelEntityChecker            |I| [initReservedWords] array length = 1025
+2019-10-21 16:02:25,588 |OFBiz-batch-2        |GenericDelegator              |I| Delegator "default" initializing helper "localderbytenant" for entity group "org.apache.ofbiz.tenant".
+2019-10-21 16:02:25,591 |OFBiz-batch-1        |GenericDelegator              |I| Delegator "default" initializing helper "localpostgres" for entity group "org.apache.ofbiz".
+2019-10-21 16:02:25,593 |OFBiz-batch-2        |GenericDelegator              |I| Doing database check as requested in entityengine.xml with addMissing=true
+2019-10-21 16:02:25,595 |OFBiz-batch-1        |GenericDelegator              |I| Doing database check as requested in entityengine.xml with addMissing=true
+2019-10-21 16:02:25,975 |OFBiz-batch-1        |DatabaseUtil                  |I| Database Product Name is PostgreSQL
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| Database Product Version is 10.10 (Ubuntu 10.10-0ubuntu0.18.04.1)
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| Database Driver Name is PostgreSQL JDBC Driver
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| Database Driver Version is 42.1.1
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| Database Driver JDBC Version is 4.2
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| Database Setting/Support Information (those with a * should be true):
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| - supports transactions     [true]*
+2019-10-21 16:02:25,976 |OFBiz-batch-1        |DatabaseUtil                  |I| - isolation None            [false]
+2019-10-21 16:02:25,977 |OFBiz-batch-1        |DatabaseUtil                  |I| - isolation ReadCommitted   [true]
+2019-10-21 16:02:25,977 |OFBiz-batch-1        |DatabaseUtil                  |I| - isolation ReadUncommitted [true]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - isolation RepeatableRead  [true]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - isolation Serializable    [true]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - forward only type         [true]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - scroll sensitive type     [false]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - scroll insensitive type   [true]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - is case sensitive         [false]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - stores LowerCase          [true]
+2019-10-21 16:02:25,978 |OFBiz-batch-1        |DatabaseUtil                  |I| - stores MixedCase          [false]
+2019-10-21 16:02:25,979 |OFBiz-batch-1        |DatabaseUtil                  |I| - stores UpperCase          [false]
+2019-10-21 16:02:26,408 |OFBiz-batch-1        |DatabaseUtil                  |I| - max table name length     [63]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - max column name length    [63]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - concurrent connections    [8192]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - concurrent statements     [0]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - ANSI SQL92 Entry          [true]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - ANSI SQL92 Intermediate   [false]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - ANSI SQL92 Full           [false]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - ODBC SQL Grammar Core     [false]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - ODBC SQL Grammar Extended [false]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - ODBC SQL Grammar Minimum  [true]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - outer joins               [true]*
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - limited outer joins       [true]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - full outer joins          [true]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - group by                  [true]*
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - group by not in select    [true]
+2019-10-21 16:02:26,409 |OFBiz-batch-1        |DatabaseUtil                  |I| - column aliasing           [true]
+2019-10-21 16:02:26,410 |OFBiz-batch-1        |DatabaseUtil                  |I| - order by not in select    [true]
+2019-10-21 16:02:26,410 |OFBiz-batch-1        |DatabaseUtil                  |I| - alter table add column    [true]*
+2019-10-21 16:02:26,410 |OFBiz-batch-1        |DatabaseUtil                  |I| - non-nullable column       [true]*
+2019-10-21 16:02:26,410 |OFBiz-batch-1        |DatabaseUtil                  |I| - default fetchsize        [0]
+2019-10-21 16:02:26,410 |OFBiz-batch-1        |DatabaseUtil                  |I| - named parameters         [ SKIPPED ]
+2019-10-21 16:02:26,410 |OFBiz-batch-1        |DatabaseUtil                  |I| Getting Table Info From Database
+2019-10-21 16:02:26,857 |OFBiz-batch-1        |DatabaseUtil                  |I| Getting Column Info From Database
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| Database Product Name is Apache Derby
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| Database Product Version is 10.14.2.0 - (1828579)
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| Database Driver Name is Apache Derby Embedded JDBC Driver
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| Database Driver Version is 10.14.2.0 - (1828579)
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| Database Driver JDBC Version is 4.2
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| Database Setting/Support Information (those with a * should be true):
+2019-10-21 16:02:26,967 |OFBiz-batch-2        |DatabaseUtil                  |I| - supports transactions     [true]*
+2019-10-21 16:02:26,968 |OFBiz-batch-2        |DatabaseUtil                  |I| - isolation None            [false]
+2019-10-21 16:02:26,969 |OFBiz-batch-2        |DatabaseUtil                  |I| - isolation ReadCommitted   [true]
+2019-10-21 16:02:26,969 |OFBiz-batch-2        |DatabaseUtil                  |I| - isolation ReadUncommitted [true]
+2019-10-21 16:02:26,969 |OFBiz-batch-2        |DatabaseUtil                  |I| - isolation RepeatableRead  [true]
+2019-10-21 16:02:26,969 |OFBiz-batch-2        |DatabaseUtil                  |I| - isolation Serializable    [true]
+2019-10-21 16:02:26,969 |OFBiz-batch-2        |DatabaseUtil                  |I| - forward only type         [true]
+2019-10-21 16:02:26,969 |OFBiz-batch-2        |DatabaseUtil                  |I| - scroll sensitive type     [false]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - scroll insensitive type   [true]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - is case sensitive         [false]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - stores LowerCase          [false]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - stores MixedCase          [false]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - stores UpperCase          [true]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - max table name length     [128]
+2019-10-21 16:02:26,970 |OFBiz-batch-2        |DatabaseUtil                  |I| - max column name length    [128]
+2019-10-21 16:02:26,971 |OFBiz-batch-2        |DatabaseUtil                  |I| - concurrent connections    [0]
+2019-10-21 16:02:26,971 |OFBiz-batch-2        |DatabaseUtil                  |I| - concurrent statements     [0]
+2019-10-21 16:02:26,971 |OFBiz-batch-2        |DatabaseUtil                  |I| - ANSI SQL92 Entry          [true]
+2019-10-21 16:02:26,971 |OFBiz-batch-2        |DatabaseUtil                  |I| - ANSI SQL92 Intermediate   [false]
+2019-10-21 16:02:26,971 |OFBiz-batch-2        |DatabaseUtil                  |I| - ANSI SQL92 Full           [false]
+2019-10-21 16:02:26,973 |OFBiz-batch-2        |DatabaseUtil                  |I| - ODBC SQL Grammar Core     [false]
+2019-10-21 16:02:26,973 |OFBiz-batch-2        |DatabaseUtil                  |I| - ODBC SQL Grammar Extended [false]
+2019-10-21 16:02:26,974 |OFBiz-batch-2        |DatabaseUtil                  |I| - ODBC SQL Grammar Minimum  [true]
+2019-10-21 16:02:26,975 |OFBiz-batch-2        |DatabaseUtil                  |I| - outer joins               [true]*
+2019-10-21 16:02:26,975 |OFBiz-batch-2        |DatabaseUtil                  |I| - limited outer joins       [true]
+2019-10-21 16:02:26,975 |OFBiz-batch-2        |DatabaseUtil                  |I| - full outer joins          [false]
+2019-10-21 16:02:26,976 |OFBiz-batch-2        |DatabaseUtil                  |I| - group by                  [true]*
+2019-10-21 16:02:26,976 |OFBiz-batch-2        |DatabaseUtil                  |I| - group by not in select    [true]
+2019-10-21 16:02:26,976 |OFBiz-batch-2        |DatabaseUtil                  |I| - column aliasing           [true]
+2019-10-21 16:02:26,976 |OFBiz-batch-2        |DatabaseUtil                  |I| - order by not in select    [false]
+2019-10-21 16:02:26,977 |OFBiz-batch-2        |DatabaseUtil                  |I| - alter table add column    [true]*
+2019-10-21 16:02:26,977 |OFBiz-batch-2        |DatabaseUtil                  |I| - non-nullable column       [true]*
+2019-10-21 16:02:26,978 |OFBiz-batch-2        |DatabaseUtil                  |I| - default fetchsize        [1]
+2019-10-21 16:02:26,979 |OFBiz-batch-2        |DatabaseUtil                  |I| - named parameters         [ SKIPPED ]
+2019-10-21 16:02:26,979 |OFBiz-batch-2        |DatabaseUtil                  |I| Getting Table Info From Database
+2019-10-21 16:02:27,330 |OFBiz-batch-1        |DatabaseUtil                  |I| Reviewed 1641 primary key fields from database.
+2019-10-21 16:02:27,361 |OFBiz-batch-2        |DatabaseUtil                  |I| Getting Column Info From Database
+2019-10-21 16:02:27,422 |OFBiz-batch-2        |DatabaseUtil                  |I| Error getting primary key info from database with null tableName, will try other means: java.sql.SQLException: Table name can not be null
+2019-10-21 16:02:27,465 |OFBiz-batch-2        |DatabaseUtil                  |I| Searching in 6 tables for primary key fields ...
+2019-10-21 16:02:27,503 |OFBiz-batch-2        |DatabaseUtil                  |I| Reviewed 8 primary key fields from database.
+2019-10-21 16:02:27,535 |main                 |ContainerLoader               |I| Started container delegator-container
+2019-10-21 16:02:27,535 |main                 |ContainerLoader               |I| Starting container service-container
+2019-10-21 16:02:27,535 |main                 |ContainerLoader               |I| Started container service-container
+2019-10-21 16:02:27,535 |main                 |ContainerLoader               |I| Starting container catalina-container
+2019-10-21 16:02:27,623 |kJoinPool-1-worker-2 |EntityEcaUtil                 |I| Loaded [4] Entity ECA definitions from /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/entitydef/eecas.xml in loader main
+2019-10-21 16:02:27,623 |kJoinPool-1-worker-1 |EntityEcaUtil                 |I| Loaded [11] Entity ECA definitions from /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/entitydef/eecas.xml in loader main
+2019-10-21 16:02:27,625 |kJoinPool-1-worker-0 |EntityEcaUtil                 |I| Loaded [2] Entity ECA definitions from /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/entitydef/eecas.xml in loader main
+2019-10-21 16:02:27,632 |kJoinPool-1-worker-3 |EntityEcaUtil                 |I| Loaded [14] Entity ECA definitions from /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/entitydef/eecas.xml in loader main
+2019-10-21 16:02:27,636 |kJoinPool-1-worker-2 |EntityEcaUtil                 |I| Loaded [3] Entity ECA definitions from /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/entitydef/eecas.xml in loader main
+2019-10-21 16:02:27,683 |OFBiz-batch-1        |ServiceGroupReader            |I| Loaded [1] Group definitions from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/groups_test.xml
+2019-10-21 16:02:27,701 |OFBiz-batch-1        |ServiceGroupReader            |I| Loaded [4] Group definitions from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/entityext/servicedef/groups.xml
+2019-10-21 16:02:27,710 |OFBiz-batch-1        |ServiceGroupReader            |I| Loaded [2] Group definitions from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/servicedef/service_groups.xml
+2019-10-21 16:02:27,723 |OFBiz-batch-1        |ServiceGroupReader            |I| Loaded [1] Group definitions from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/groups.xml
+2019-10-21 16:02:27,737 |OFBiz-batch-1        |ServiceGroupReader            |I| Loaded [4] Group definitions from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/groups.xml
+2019-10-21 16:02:27,752 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [3] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/service/servicedef/secas_test_se.xml
+2019-10-21 16:02:27,753 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [3] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/secas_test.xml
+2019-10-21 16:02:27,754 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [0] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/secas_cdyne.xml
+2019-10-21 16:02:27,760 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [10] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/servicedef/secas.xml
+2019-10-21 16:02:27,764 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [25] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/secas.xml
+2019-10-21 16:02:27,764 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [25] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/secas.xml
+2019-10-21 16:02:27,768 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [26] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/secas.xml
+2019-10-21 16:02:27,775 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [23] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas.xml
+2019-10-21 16:02:27,778 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [23] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/secas_shipment.xml
+2019-10-21 16:02:27,781 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [8] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas_payment.xml
+2019-10-21 16:02:27,783 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [4] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/secas.xml
+2019-10-21 16:02:27,787 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [22] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas_ledger.xml
+2019-10-21 16:02:27,795 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [6] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas_invoice.xml
+2019-10-21 16:02:27,806 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [80] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/secas.xml
+2019-10-21 16:02:27,809 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [0] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/servicedef/secas.xml
+2019-10-21 16:02:27,820 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [10] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/servicedef/secas.xml
+2019-10-21 16:02:28,000 |OFBiz-JobPoller      |JobPoller                     |I| JobPoller thread started.
+2019-10-21 16:02:28,002 |enerFactory@6a3170ee |JmsListenerFactory            |I| Starting JMS Listener Factory Thread
+2019-10-21 16:02:28,002 |enerFactory@6a3170ee |JmsListenerFactory            |I| JMS Listener Factory Thread Finished; All listeners connected.
+2019-10-21 16:02:28,174 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [2] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_cdyne.xml
+2019-10-21 16:02:28,176 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [18] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_email.xml
+2019-10-21 16:02:28,178 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_enum.xml
+2019-10-21 16:02:28,183 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [126] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services.xml
+2019-10-21 16:02:28,187 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [12] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_geo.xml
+2019-10-21 16:02:28,188 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_method.xml
+2019-10-21 16:02:28,193 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_qrcode.xml
+2019-10-21 16:02:28,205 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [2] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_telecom.xml
+2019-10-21 16:02:28,207 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [36] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_test.xml
+2019-10-21 16:02:28,214 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [34] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/service/servicedef/services.xml
+2019-10-21 16:02:28,220 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [20] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/services_security.xml
+2019-10-21 16:02:28,223 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [68] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/entityext/servicedef/services.xml
+2019-10-21 16:02:28,223 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [31] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/service/servicedef/services_test_se.xml
+2019-10-21 16:02:28,238 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/testtools/servicedef/services.xml
+2019-10-21 16:02:28,238 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/entityext/servicedef/services_tenant.xml
+2019-10-21 16:02:28,240 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/entityext/servicedef/services_synchronization.xml
+2019-10-21 16:02:28,242 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/entityext/servicedef/services_group.xml
+2019-10-21 16:02:28,255 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [10] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/webtools/servicedef/services.xml
+2019-10-21 16:02:28,256 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services_communication.xml
+2019-10-21 16:02:28,257 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [18] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services_agreement.xml
+2019-10-21 16:02:28,261 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-datatype-valid.1.2.1: 'ture' is not a valid value for 'boolean'.
+2019-10-21 16:02:28,261 |kJoinPool-1-worker-1 |UtilXml                       |E| XmlFileLoader: File /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml process error. Line: 469. Error message: cvc-attribute.3: The value 'ture' of attribute 'optional' on element 'override' is not valid with respect to its type, 'boolean'.
+2019-10-21 16:02:28,262 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [8] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services_view.xml
+2019-10-21 16:02:28,264 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [12] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services_contact.xml
+2019-10-21 16:02:28,272 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/securityext/servicedef/services.xml
+2019-10-21 16:02:28,276 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [24] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services_party.xml
+2019-10-21 16:02:28,281 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [35] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_contenttypes.xml
+2019-10-21 16:02:28,284 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [181] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/services.xml
+2019-10-21 16:02:28,289 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [39] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_data.xml
+2019-10-21 16:02:28,291 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [92] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services.xml
+2019-10-21 16:02:28,293 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_ftp.xml
+2019-10-21 16:02:28,294 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [57] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_content.xml
+2019-10-21 16:02:28,307 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [12] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_document.xml
+2019-10-21 16:02:28,312 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [8] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_commevent.xml
+2019-10-21 16:02:28,315 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [2] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_output.xml
+2019-10-21 16:02:28,324 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [17] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/servicedef/services_timesheet.xml
+2019-10-21 16:02:28,325 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [42] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_survey.xml
+2019-10-21 16:02:28,329 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [19] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/services_website.xml
+2019-10-21 16:02:28,343 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [36] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/servicedef/services_workeffort.xml
+2019-10-21 16:02:28,368 |kJoinPool-1-worker-2 |ModelServiceReader            |W| No parameter found for override parameter named: contactMechId in service deleteWorkEffortInventoryProduced
+2019-10-21 16:02:28,368 |kJoinPool-1-worker-2 |ModelServiceReader            |W| No parameter found for override parameter named: fromDate in service deleteWorkEffortInventoryProduced
+2019-10-21 16:02:28,368 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [107] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/servicedef/services.xml
+2019-10-21 16:02:28,371 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [36] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_feature.xml
+2019-10-21 16:02:28,374 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [236] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services.xml
+2019-10-21 16:02:28,379 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [130] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_facility.xml
+2019-10-21 16:02:28,382 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [22] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_maint.xml
+2019-10-21 16:02:28,388 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [12] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_inventory.xml
+2019-10-21 16:02:28,396 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [22] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_picklist.xml
+2019-10-21 16:02:28,404 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [21] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_shipmentgateway.xml
+2019-10-21 16:02:28,414 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [12] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_price.xml
+2019-10-21 16:02:28,416 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [75] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_pricepromo.xml
+2019-10-21 16:02:28,420 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [9] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_shipment_ups.xml
+2019-10-21 16:02:28,421 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [10] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_shipment_usps.xml
+2019-10-21 16:02:28,422 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [2] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_shipment_fedex.xml
+2019-10-21 16:02:28,429 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [29] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_subscription.xml
+2019-10-21 16:02:28,435 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_shipment_dhl.xml
+2019-10-21 16:02:28,443 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_supplier.xml
+2019-10-21 16:02:28,445 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_perm.xml
+2019-10-21 16:02:28,447 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [2] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_rental.xml
+2019-10-21 16:02:28,455 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [13] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_view.xml
+2019-10-21 16:02:28,458 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_config.xml
+2019-10-21 16:02:28,462 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [54] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_store.xml
+2019-10-21 16:02:28,463 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [24] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_cost.xml
+2019-10-21 16:02:28,466 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [2] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_uom.xml
+2019-10-21 16:02:28,466 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [137] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/services_shipment.xml
+2019-10-21 16:02:28,475 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services.xml
+2019-10-21 16:02:28,475 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [5] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services_routing.xml
+2019-10-21 16:02:28,479 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [12] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services_calendar.xml
+2019-10-21 16:02:28,480 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [36] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services_production_run.xml
+2019-10-21 16:02:28,480 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [13] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services_bom.xml
+2019-10-21 16:02:28,483 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [8] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services_mrp.xml
+2019-10-21 16:02:28,486 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [5] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/services_formula.xml
+2019-10-21 16:02:28,490 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [16] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_admin.xml
+2019-10-21 16:02:28,493 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [44] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_agreement.xml
+2019-10-21 16:02:28,504 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [47] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_budget.xml
+2019-10-21 16:02:28,507 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [10] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_billing.xml
+2019-10-21 16:02:28,509 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [67] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_fixedasset.xml
+2019-10-21 16:02:28,515 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [56] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_payment.xml
+2019-10-21 16:02:28,519 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [130] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_ledger.xml
+2019-10-21 16:02:28,519 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [76] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_finaccount.xml
+2019-10-21 16:02:28,524 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [83] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_invoice.xml
+2019-10-21 16:02:28,544 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [31] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_tax.xml
+2019-10-21 16:02:28,544 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [19] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_paymentgateway.xml
+2019-10-21 16:02:28,558 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [10] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_cost.xml
+2019-10-21 16:02:28,560 |kJoinPool-1-worker-2 |ModelService                  |W| DEPRECATED: the service deleteRateAmount has been deprecated and replaced by expireRateAmount, since Release 18.12
+2019-10-21 16:02:28,561 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [14] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_rate.xml
+2019-10-21 16:02:28,569 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_authorizedotnet.xml
+2019-10-21 16:02:28,570 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [9] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_sagepay.xml
+2019-10-21 16:02:28,571 |kJoinPool-1-worker-3 |ModelService                  |W| DEPRECATED: the service captureBillingAccountPayment has been deprecated and replaced by captureBillingAccountPayments, since Releases 17.12
+2019-10-21 16:02:28,573 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_clearcommerce.xml
+2019-10-21 16:02:28,575 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [96] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_paymentmethod.xml
+2019-10-21 16:02:28,577 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [8] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_paypal.xml
+2019-10-21 16:02:28,578 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [5] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_cybersource.xml
+2019-10-21 16:02:28,586 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [10] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_rita.xml
+2019-10-21 16:02:28,590 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [11] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_verisign.xml
+2019-10-21 16:02:28,590 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [4] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_pccharge.xml
+2019-10-21 16:02:28,593 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [21] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_valuelink.xml
+2019-10-21 16:02:28,593 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [5] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_securepay.xml
+2019-10-21 16:02:28,594 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [13] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_perm.xml
+2019-10-21 16:02:28,597 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [5] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/services_orbital.xml
+2019-10-21 16:02:28,611 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/humanres/servicedef/services_position.xml
+2019-10-21 16:02:28,616 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/humanres/servicedef/services_employment.xml
+2019-10-21 16:02:28,617 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/humanres/servicedef/services_ability.xml
+2019-10-21 16:02:28,626 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [113] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/humanres/servicedef/services.xml
+2019-10-21 16:02:28,641 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [15] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_cart.xml
+2019-10-21 16:02:28,643 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [23] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_shoppinglist.xml
+2019-10-21 16:02:28,647 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [61] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_order.xml
+2019-10-21 16:02:28,651 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [39] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_request.xml
+2019-10-21 16:02:28,664 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_reservations.xml
+2019-10-21 16:02:28,665 |kJoinPool-1-worker-1 |ModelService                  |W| DEPRECATED: the service createQuoteWorkEffort has been deprecated and replaced by ensureWorkEffortAndCreateQuoteWorkEffort, since Release 18.12 because '
+            use createQuoteWorkEffort to create a workeffort has been deprecated for best pratice naming reason, use ensureWorkEffortAndCreateQuoteWorkEffort instead.
+            Now createQuoteWorkEffort work as a crud service on QuoteWorkEffort
+        '
+2019-10-21 16:02:28,665 |kJoinPool-1-worker-1 |ModelServiceReader            |W| Service createQuoteWorkEffort is defined more than once, most recent will over-write previous definition(s)
+2019-10-21 16:02:28,665 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [45] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_quote.xml
+2019-10-21 16:02:28,667 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [138] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services.xml
+2019-10-21 16:02:28,672 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [43] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_requirement.xml
+2019-10-21 16:02:28,674 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_checkout.xml
+2019-10-21 16:02:28,690 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [73] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_return.xml
+2019-10-21 16:02:28,713 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [25] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/servicedef/services_opportunity.xml
+2019-10-21 16:02:28,730 |kJoinPool-1-worker-1 |ModelService                  |W| DEPRECATED: the service addPriceRuleToMarketingCampaign has been deprecated and replaced by createMarketingCampaignPrice, since Release 18.12 because '
+            Renaming service to respect service name best practice
+        '
+2019-10-21 16:02:28,731 |kJoinPool-1-worker-1 |ModelService                  |W| DEPRECATED: the service removePriceRuleFromMarketingCampaign has been deprecated and replaced by deleteMarketingCampaignPrice, since Release 18.12 because '
+                Renaming service to respect service name best practice
+            '
+2019-10-21 16:02:28,731 |kJoinPool-1-worker-1 |ModelService                  |W| DEPRECATED: the service addPromoToMarketingCampaign has been deprecated and replaced by createMarketingCampaignPromo, since Release 18.12 because '
+            Renaming service to respect service name best practice
+        '
+2019-10-21 16:02:28,731 |kJoinPool-1-worker-1 |ModelService                  |W| DEPRECATED: the service removePromoFromMarketingCampaign has been deprecated and replaced by deleteMarketingCampaignPromo, since Release 18.12 because '
+            Renaming service to respect service name best practice
+        '
+2019-10-21 16:02:28,744 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [6] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/servicedef/services.xml
+2019-10-21 16:02:28,746 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [1] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/services_perm.xml
+2019-10-21 16:02:28,757 |kJoinPool-1-worker-2 |ModelServiceReader            |I| Loaded [4] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/accounts/servicedef/services.xml
+2019-10-21 16:02:28,757 |kJoinPool-1-worker-1 |ModelServiceReader            |I| Loaded [79] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/servicedef/services.xml
+2019-10-21 16:02:28,760 |kJoinPool-1-worker-0 |ModelServiceReader            |I| Loaded [3] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/servicedef/services_contact.xml
+2019-10-21 16:02:28,760 |kJoinPool-1-worker-3 |ModelServiceReader            |I| Loaded [8] Services from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/patanjali/servicedef/services.xml
+2019-10-21 16:02:28,775 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [3] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/service/servicedef/secas_test_se.xml
+2019-10-21 16:02:28,778 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [0] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/secas_cdyne.xml
+2019-10-21 16:02:28,779 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [25] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/servicedef/secas.xml
+2019-10-21 16:02:28,779 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [3] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/servicedef/secas_test.xml
+2019-10-21 16:02:28,782 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [10] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/servicedef/secas.xml
+2019-10-21 16:02:28,786 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [25] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/servicedef/secas.xml
+2019-10-21 16:02:28,786 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [26] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/secas.xml
+2019-10-21 16:02:28,788 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [4] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/servicedef/secas.xml
+2019-10-21 16:02:28,789 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [23] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/servicedef/secas_shipment.xml
+2019-10-21 16:02:28,793 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [22] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas_ledger.xml
+2019-10-21 16:02:28,796 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [23] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas.xml
+2019-10-21 16:02:28,797 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [6] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas_invoice.xml
+2019-10-21 16:02:28,799 |kJoinPool-1-worker-3 |ServiceEcaUtil                |I| Loaded [8] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/servicedef/secas_payment.xml
+2019-10-21 16:02:28,799 |kJoinPool-1-worker-2 |ServiceEcaUtil                |I| Loaded [10] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/servicedef/secas.xml
+2019-10-21 16:02:28,802 |kJoinPool-1-worker-1 |ServiceEcaUtil                |I| Loaded [0] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/servicedef/secas.xml
+2019-10-21 16:02:28,808 |kJoinPool-1-worker-0 |ServiceEcaUtil                |I| Loaded [80] Service ECA Rules from file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/servicedef/secas.xml
+2019-10-21 16:02:28,809 |OFBiz-batch-1        |ServiceDispatcher             |I| Registering dispatcher: entity-default
+2019-10-21 16:02:28,809 |OFBiz-batch-1        |ServiceContainer              |I| Created new dispatcher: entity-default
+2019-10-21 16:02:29,072 |main                 |ServiceDispatcher             |I| Registering dispatcher: catalog
+2019-10-21 16:02:29,072 |main                 |ServiceContainer              |I| Created new dispatcher: catalog
+2019-10-21 16:02:29,074 |main                 |ControlServlet                |I| Loading webapp [catalog], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/webapp/catalog/
+2019-10-21 16:02:29,183 |main                 |ConfigXMLReader               |I| controller loaded: 0.022s, 539 requests, 178 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/webapp/catalog/WEB-INF/controller.xml
+2019-10-21 16:02:29,215 |main                 |ConfigXMLReader               |I| controller loaded: 0.002s, 51 requests, 23 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/common-controller.xml
+2019-10-21 16:02:29,228 |main                 |ConfigXMLReader               |I| controller loaded: 0.0s, 0 requests, 0 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/handlers-controller.xml
+2019-10-21 16:02:29,242 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 26 requests, 10 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/portal-controller.xml
+2019-10-21 16:02:29,253 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 4 requests, 0 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/webapp/WEB-INF/controller.xml
+2019-10-21 16:02:29,310 |main                 |ServiceDispatcher             |I| Registering dispatcher: default
+2019-10-21 16:02:29,310 |main                 |ServiceContainer              |I| Created new dispatcher: default
+2019-10-21 16:02:29,365 |main                 |ServiceDispatcher             |I| Registering dispatcher: workeffort
+2019-10-21 16:02:29,365 |main                 |ServiceContainer              |I| Created new dispatcher: workeffort
+2019-10-21 16:02:29,365 |main                 |ControlServlet                |I| Loading webapp [workeffort], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/webapp/workeffort/
+2019-10-21 16:02:29,388 |main                 |ConfigXMLReader               |I| controller loaded: 0.003s, 145 requests, 66 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/webapp/workeffort/WEB-INF/controller.xml
+2019-10-21 16:02:29,398 |main                 |ConfigXMLReader               |I| controller loaded: 0.0s, 15 requests, 7 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/workeffort/webapp/workeffort/WEB-INF/icalendar-controller.xml
+2019-10-21 16:02:29,414 |main                 |ServiceDispatcher             |I| Registering dispatcher: accounting
+2019-10-21 16:02:29,414 |main                 |ServiceContainer              |I| Created new dispatcher: accounting
+2019-10-21 16:02:29,414 |main                 |ControlServlet                |I| Loading webapp [accounting], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/webapp/accounting/
+2019-10-21 16:02:29,451 |main                 |ConfigXMLReader               |I| controller loaded: 0.005s, 511 requests, 240 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/webapp/accounting/WEB-INF/controller.xml
+2019-10-21 16:02:29,472 |main                 |ServiceDispatcher             |I| Registering dispatcher: content
+2019-10-21 16:02:29,472 |main                 |ServiceContainer              |I| Created new dispatcher: content
+2019-10-21 16:02:29,473 |main                 |ControlServlet                |I| Loading webapp [content], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/webapp/content/
+2019-10-21 16:02:29,498 |main                 |ConfigXMLReader               |I| controller loaded: 0.004s, 379 requests, 154 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/webapp/content/WEB-INF/controller.xml
+2019-10-21 16:02:29,515 |main                 |ServiceDispatcher             |I| Registering dispatcher: patanjali
+2019-10-21 16:02:29,515 |main                 |ServiceContainer              |I| Created new dispatcher: patanjali
+2019-10-21 16:02:29,516 |main                 |ControlServlet                |I| Loading webapp [PatanjaliWeb], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/patanjali/webapp/PatanjaliWeb/
+2019-10-21 16:02:29,541 |main                 |ConfigXMLReader               |I| controller loaded: 0.0s, 1 requests, 1 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/patanjali/webapp/PatanjaliWeb/WEB-INF/controller.xml
+2019-10-21 16:02:29,556 |main                 |ServiceDispatcher             |I| Registering dispatcher: setup
+2019-10-21 16:02:29,556 |main                 |ServiceContainer              |I| Created new dispatcher: setup
+2019-10-21 16:02:29,556 |main                 |ControlServlet                |I| Loading webapp [ofbizsetup], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/webapp/ofbizsetup/
+2019-10-21 16:02:29,567 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 32 requests, 15 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/webapp/ofbizsetup/WEB-INF/controller.xml
+2019-10-21 16:02:29,589 |main                 |ConfigXMLReader               |I| controller loaded: 0.003s, 265 requests, 109 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/webapp/partymgr/WEB-INF/controller.xml
+2019-10-21 16:02:29,601 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 30 requests, 13 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/security-controller.xml
+2019-10-21 16:02:29,631 |main                 |ServiceDispatcher             |I| Registering dispatcher: webtools
+2019-10-21 16:02:29,631 |main                 |ServiceContainer              |I| Created new dispatcher: webtools
+2019-10-21 16:02:29,631 |main                 |ControlServlet                |I| Loading webapp [webtools], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/webtools/webapp/webtools/
+2019-10-21 16:02:29,692 |main                 |ConfigXMLReader               |I| controller loaded: 0.044s, 113 requests, 78 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/webtools/webapp/webtools/WEB-INF/controller.xml
+2019-10-21 16:02:29,701 |main                 |ConfigXMLReader               |I| controller loaded: 0.0s, 5 requests, 0 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/tempexpr-controller.xml
+2019-10-21 16:02:29,843 |main                 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/webapp/config/freemarkerTransforms.properties
+2019-10-21 16:02:29,848 |main                 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/widget/config/freemarkerTransforms.properties
+2019-10-21 16:02:29,849 |main                 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/config/freemarkerTransforms.properties
+2019-10-21 16:02:29,865 |main                 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/config/freemarkerTransforms.properties
+2019-10-21 16:02:29,897 |main                 |SeoConfigUtil                 |I| Parsing ^.*/.*$
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I| Parsing category-url [true]:
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   allowed-context-paths: /
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   allowed-context-paths: /ecomseo
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   category-name: false
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   category-url-suffix: .html
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I| Parsing jsessionid [true]:
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   anonymous: false
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   exceptions: 
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|     url-pattern: ^.*/(keywordsearch|logout).*$
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I|   user: false
+2019-10-21 16:02:29,898 |main                 |SeoConfigUtil                 |I| Parsing url-config
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   url-pattern: ^(.*);jsessionid=(.*)jvm[1-9](.*)$
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     seo replacement: $1$3
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     forward replacement: $1$3
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     forward responsecode: 301
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   url-pattern: ^/ecomseo/main$
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     seo replacement: /ecomseo/
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     forward replacement: /ecomseo/
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     forward responsecode: 301
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   url-pattern: ^/main$
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     seo replacement: /
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     forward replacement: /
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|     forward responsecode: 301
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I| Parsing char-filter: 
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00fc
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   replacement: ue
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00e4
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   replacement: ae
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00f6
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   replacement: oe
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00df
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   replacement: ss
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   character-pattern: \\+
+2019-10-21 16:02:29,899 |main                 |SeoConfigUtil                 |I|   replacement: und
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   character-pattern: \u0026
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   replacement: und
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   character-pattern: è
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   replacement: e
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   character-pattern: [^A-Za-z0-9+-]
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   replacement: -
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   character-pattern: -{2,}
+2019-10-21 16:02:29,900 |main                 |SeoConfigUtil                 |I|   replacement: -
+2019-10-21 16:02:29,909 |main                 |SeoConfigUtil                 |I| Parsing ^.*/.*$
+2019-10-21 16:02:29,909 |main                 |SeoConfigUtil                 |I| Parsing category-url [true]:
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   allowed-context-paths: /
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   allowed-context-paths: /ecomseo
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   category-name: false
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   category-url-suffix: .html
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I| Parsing jsessionid [true]:
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   anonymous: false
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   exceptions: 
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     url-pattern: ^.*/(keywordsearch|logout).*$
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   user: false
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I| Parsing url-config
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   url-pattern: ^(.*);jsessionid=(.*)jvm[1-9](.*)$
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     seo replacement: $1$3
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     forward replacement: $1$3
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     forward responsecode: 301
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   url-pattern: ^/ecomseo/main$
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     seo replacement: /ecomseo/
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     forward replacement: /ecomseo/
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     forward responsecode: 301
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   url-pattern: ^/main$
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     seo replacement: /
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     forward replacement: /
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|     forward responsecode: 301
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I| Parsing char-filter: 
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00fc
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   replacement: ue
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00e4
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   replacement: ae
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00f6
+2019-10-21 16:02:29,910 |main                 |SeoConfigUtil                 |I|   replacement: oe
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   character-pattern: \u00df
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   replacement: ss
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   character-pattern: \\+
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   replacement: und
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   character-pattern: \u0026
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   replacement: und
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   character-pattern: è
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   replacement: e
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   character-pattern: [^A-Za-z0-9+-]
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   replacement: -
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   character-pattern: -{2,}
+2019-10-21 16:02:29,911 |main                 |SeoConfigUtil                 |I|   replacement: -
+2019-10-21 16:02:29,941 |main                 |ServiceDispatcher             |I| Registering dispatcher: manufacturing
+2019-10-21 16:02:29,941 |main                 |ServiceContainer              |I| Created new dispatcher: manufacturing
+2019-10-21 16:02:29,942 |main                 |ControlServlet                |I| Loading webapp [manufacturing], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/webapp/manufacturing/
+2019-10-21 16:02:29,960 |main                 |ConfigXMLReader               |I| controller loaded: 0.002s, 149 requests, 65 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/manufacturing/webapp/manufacturing/WEB-INF/controller.xml
+2019-10-21 16:02:29,994 |main                 |ServiceDispatcher             |I| Registering dispatcher: order
+2019-10-21 16:02:29,994 |main                 |ServiceContainer              |I| Created new dispatcher: order
+2019-10-21 16:02:29,995 |main                 |ControlServlet                |I| Loading webapp [ordermgr], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/webapp/ordermgr/
+2019-10-21 16:02:30,024 |main                 |ConfigXMLReader               |I| controller loaded: 0.01s, 366 requests, 147 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/order/webapp/ordermgr/WEB-INF/controller.xml
+2019-10-21 16:02:30,072 |main                 |ServiceDispatcher             |I| Registering dispatcher: Humanres
+2019-10-21 16:02:30,072 |main                 |ServiceContainer              |I| Created new dispatcher: Humanres
+2019-10-21 16:02:30,073 |main                 |ControlServlet                |I| Loading webapp [humanres], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/humanres/webapp/humanres/
+2019-10-21 16:02:30,091 |main                 |ConfigXMLReader               |I| controller loaded: 0.003s, 230 requests, 96 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/humanres/webapp/humanres/WEB-INF/controller.xml
+2019-10-21 16:02:30,103 |main                 |ServiceDispatcher             |I| Registering dispatcher: ap
+2019-10-21 16:02:30,104 |main                 |ServiceContainer              |I| Created new dispatcher: ap
+2019-10-21 16:02:30,104 |main                 |ControlServlet                |I| Loading webapp [ap], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/webapp/ap/
+2019-10-21 16:02:30,113 |main                 |ConfigXMLReader               |I| controller loaded: 0.0s, 22 requests, 14 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/webapp/ap/WEB-INF/controller.xml
+2019-10-21 16:02:30,133 |main                 |ServiceDispatcher             |I| Registering dispatcher: marketing
+2019-10-21 16:02:30,134 |main                 |ServiceContainer              |I| Created new dispatcher: marketing
+2019-10-21 16:02:30,135 |main                 |ControlServlet                |I| Loading webapp [marketing], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/webapp/marketing/
+2019-10-21 16:02:30,157 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 91 requests, 48 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/webapp/marketing/WEB-INF/controller.xml
+2019-10-21 16:02:30,171 |main                 |ServiceDispatcher             |I| Registering dispatcher: ar
+2019-10-21 16:02:30,171 |main                 |ServiceContainer              |I| Created new dispatcher: ar
+2019-10-21 16:02:30,172 |main                 |ControlServlet                |I| Loading webapp [ar], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/webapp/ar/
+2019-10-21 16:02:30,181 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 16 requests, 10 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/accounting/webapp/ar/WEB-INF/controller.xml
+2019-10-21 16:02:30,194 |main                 |ServiceDispatcher             |I| Registering dispatcher: ical
+2019-10-21 16:02:30,194 |main                 |ServiceContainer              |I| Created new dispatcher: ical
+2019-10-21 16:02:30,209 |main                 |ServiceDispatcher             |I| Registering dispatcher: sfa
+2019-10-21 16:02:30,209 |main                 |ServiceContainer              |I| Created new dispatcher: sfa
+2019-10-21 16:02:30,210 |main                 |ControlServlet                |I| Loading webapp [sfa], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/webapp/sfa/
+2019-10-21 16:02:30,225 |main                 |ConfigXMLReader               |I| controller loaded: 0.003s, 55 requests, 36 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/marketing/webapp/sfa/WEB-INF/controller.xml
+2019-10-21 16:02:30,259 |main                 |ServiceDispatcher             |I| Registering dispatcher: accounts
+2019-10-21 16:02:30,259 |main                 |ServiceContainer              |I| Created new dispatcher: accounts
+2019-10-21 16:02:30,260 |main                 |ControlServlet                |I| Loading webapp [accounts], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/accounts/webapp/accounts/
+2019-10-21 16:02:30,270 |main                 |ConfigXMLReader               |I| controller loaded: 0.001s, 7 requests, 4 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/plugins/accounts/webapp/accounts/WEB-INF/controller.xml
+2019-10-21 16:02:30,299 |main                 |ServiceDispatcher             |I| Registering dispatcher: facility
+2019-10-21 16:02:30,299 |main                 |ServiceContainer              |I| Created new dispatcher: facility
+2019-10-21 16:02:30,299 |main                 |ControlServlet                |I| Loading webapp [facility], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/webapp/facility/
+2019-10-21 16:02:30,330 |main                 |ConfigXMLReader               |I| controller loaded: 0.003s, 241 requests, 93 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/webapp/facility/WEB-INF/controller.xml
+2019-10-21 16:02:30,353 |main                 |ServiceDispatcher             |I| Registering dispatcher: partymgr
+2019-10-21 16:02:30,353 |main                 |ServiceContainer              |I| Created new dispatcher: partymgr
+2019-10-21 16:02:30,353 |main                 |ControlServlet                |I| Loading webapp [partymgr], located at /home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/party/webapp/partymgr/
+2019-10-21 16:02:30,412 |main                 |CatalinaContainer             |I| Connector AJP/1.3 @ 8009 - not-secure [org.apache.coyote.ajp.AjpNioProtocol] started.
+2019-10-21 16:02:30,412 |main                 |CatalinaContainer             |I| Connector HTTP/1.1 @ 8080 - not-secure [org.apache.coyote.http11.Http11NioProtocol] started.
+2019-10-21 16:02:30,412 |main                 |CatalinaContainer             |I| Connector HTTP/1.1 @ 8443 - secure [org.apache.coyote.http11.Http11NioProtocol] started.
+2019-10-21 16:02:30,412 |main                 |CatalinaContainer             |I| Started Apache Tomcat/9.0.16
+2019-10-21 16:02:30,412 |main                 |ContainerLoader               |I| Started container catalina-container
+2019-10-21 16:02:31,248 |OFBiz-JobPoller      |JobManager                    |I| No crashed jobs to re-schedule
+2019-10-21 16:03:01,293 |jsse-nio-8443-exec-4 |ControlEventListener          |I| Creating session:  hidden sessionId by default.
+2019-10-21 16:03:01,323 |jsse-nio-8443-exec-4 |ControlServlet                |T| [[[main(Domain:https://localhost)] Request Begun, encoding=[UTF-8]- total:0.0,since last(Begin):0.0]]
+2019-10-21 16:03:01,385 |jsse-nio-8443-exec-4 |VisitHandler                  |I| Found visitorId [10000] in cookie
+2019-10-21 16:03:01,430 |jsse-nio-8443-exec-4 |TransactionUtil               |W| No transaction in place, so not suspending.
+2019-10-21 16:03:01,483 |jsse-nio-8443-exec-4 |SequenceUtil                  |I| Got bank of sequenced IDs for [Visit]; curSeqId=12400, maxSeqId=12500, bankSize=100
+2019-10-21 16:03:01,696 |jsse-nio-8443-exec-4 |ConfigXMLReader               |I| controller loaded: 0.007s, 539 requests, 178 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/webapp/catalog/WEB-INF/controller.xml
+2019-10-21 16:03:01,711 |jsse-nio-8443-exec-4 |ConfigXMLReader               |I| controller loaded: 0.001s, 51 requests, 23 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/common-controller.xml
+2019-10-21 16:03:01,723 |jsse-nio-8443-exec-4 |ConfigXMLReader               |I| controller loaded: 0.0s, 0 requests, 0 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/handlers-controller.xml
+2019-10-21 16:03:01,733 |jsse-nio-8443-exec-4 |ConfigXMLReader               |I| controller loaded: 0.0s, 26 requests, 10 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/webcommon/WEB-INF/portal-controller.xml
+2019-10-21 16:03:01,744 |jsse-nio-8443-exec-4 |ConfigXMLReader               |I| controller loaded: 0.001s, 4 requests, 0 views in file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/webapp/WEB-INF/controller.xml
+2019-10-21 16:03:01,750 |jsse-nio-8443-exec-4 |RequestHandler                |I| This is the first request in this visit. Hidden sessionId by default.
+2019-10-21 16:03:02,155 |jsse-nio-8443-exec-4 |RequestHandler                |I| Rendering View [login].  Hidden sessionId by default.
+2019-10-21 16:03:02,161 |jsse-nio-8443-exec-4 |AbstractEngine                |I| Loaded Service Locations: {eedcc-test=https://localhost:8443/webtools/control/httpService, entity-sync-http=https://localhost:8443/webtools/control/httpService, rita-rmi=rmi://localhost:1099/RMIDispatcher, main-rmi=rmi://localhost:1099/RMIDispatcher, main-soap=http://localhost:8080/webtools/control/SOAPService, entity-sync-rmi=rmi://localhost:1099/RMIDispatcher, main-http=http://localhost:8080/webtools/control/httpService}
+2019-10-21 16:03:02,308 |jsse-nio-8443-exec-4 |ServiceDispatcher             |T| Sync service [catalog/getUserPreferenceGroup] finished in [150] milliseconds
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I| The following 2 scripting engines were found:
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I| Engine name: Groovy Scripting Engine
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Version: 2.0
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Language: Groovy
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Engine supports the following extensions:
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     groovy
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Engine has the following short names:
+2019-10-21 16:03:02,593 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     groovy
+2019-10-21 16:03:02,594 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     Groovy
+2019-10-21 16:03:02,594 |jsse-nio-8443-exec-4 |ScriptUtil                    |I| Engine name: Oracle Nashorn
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Version: 1.8.0_181
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Language: ECMAScript
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Engine supports the following extensions:
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     js
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|   Engine has the following short names:
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     nashorn
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     Nashorn
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     js
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     JS
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     JavaScript
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     javascript
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     ECMAScript
+2019-10-21 16:03:02,633 |jsse-nio-8443-exec-4 |ScriptUtil                    |I|     ecmascript
+2019-10-21 16:03:03,167 |jsse-nio-8443-exec-4 |ScreenFactory                 |I| Got 28 screens in 0.616s from: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/common/widget/CommonScreens.xml
+2019-10-21 16:03:03,493 |jsse-nio-8443-exec-4 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/webapp/config/freemarkerTransforms.properties
+2019-10-21 16:03:03,493 |jsse-nio-8443-exec-4 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/framework/widget/config/freemarkerTransforms.properties
+2019-10-21 16:03:03,494 |jsse-nio-8443-exec-4 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/content/config/freemarkerTransforms.properties
+2019-10-21 16:03:03,494 |jsse-nio-8443-exec-4 |FreeMarkerWorker              |I| loading properties: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/config/freemarkerTransforms.properties
+2019-10-21 16:03:03,606 |jsse-nio-8443-exec-4 |ScreenFactory                 |I| Got 27 screens in 0.127s from: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/themes/common-theme/widget/CommonScreens.xml
+2019-10-21 16:03:03,633 |jsse-nio-8443-exec-4 |ScreenFactory                 |I| Got 16 screens in 0.026s from: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/product/widget/catalog/CommonScreens.xml
+2019-10-21 16:03:03,935 |jsse-nio-8443-exec-4 |UtilProperties                |I| ResourceBundle ProductUiLabels (en_US) created in 0.3s with 2649 properties
+2019-10-21 16:03:04,047 |jsse-nio-8443-exec-4 |UtilProperties                |I| ResourceBundle CommonUiLabels (en_US) created in 0.111s with 921 properties
+2019-10-21 16:03:04,129 |jsse-nio-8443-exec-4 |UtilProperties                |I| ResourceBundle WorkEffortUiLabels (en_US) created in 0.082s with 484 properties
+2019-10-21 16:03:04,314 |jsse-nio-8443-exec-4 |UtilProperties                |I| ResourceBundle PartyUiLabels (en_US) created in 0.185s with 832 properties
+2019-10-21 16:03:04,456 |jsse-nio-8443-exec-4 |UtilProperties                |I| ResourceBundle AccountingUiLabels (en_US) created in 0.142s with 1604 properties
+2019-10-21 16:03:04,518 |jsse-nio-8443-exec-4 |ScreenFactory                 |I| Got 1 screens in 0.061s from: file:/home/sudhir/Documents/Ofbiz-pro-upload/patanjali-nepal/applications/commonext/widget/CommonScreens.xml
+2019-10-21 16:03:04,578 |jsse-nio-8443-exec-4 |UtilProperties                |I| ResourceBundle CommonExtUiLabels (en_US) created in 0.06s with 7 properties
+2019-10-21 16:03:04,579 |jsse-nio-8443-exec-4 |PrimaryKeyFinder              |I| Returning null because found incomplete primary key in find: [GenericEntity:PartyNameView][partyId,null()]
+2019-10-21 16:03:04,985 |jsse-nio-8443-exec-4 |GenericDAO                    |T| Ran query in 352 milli-seconds:  EntityName: PartyAcctgPrefAndGroup Sql: SELECT PTYACCPREF.PARTY_ID, PTYACCPREF.BASE_CURRENCY_UOM_ID, PTYGROUP.GROUP_NAME, PTYROLE.ROLE_TYPE_ID FROM (public.PARTY_ACCTG_PREFERENCE PTYACCPREF INNER JOIN public.PARTY_GROUP PTYGROUP ON PTYACCPREF.PARTY_ID = PTYGROUP.PARTY_ID) INNER JOIN public.PARTY_ROLE PTYROLE ON PTYACCPREF.PARTY_ID = PTYROLE.PARTY_ID WHERE (((PTYROLE.ROLE_TYPE_ID = ?))) where clause:[ROLE_TYPE_ID=INTERNAL_ORGANIZATIO]
+2019-10-21 16:03:05,125 |jsse-nio-8443-exec-4 |ServiceDispatcher             |T| Sync service [catalog/getLastSystemInfoNote] finished in [122] milliseconds
+2019-10-21 16:03:05,770 |jsse-nio-8443-exec-4 |ServerHitBin                  |I| Visit delegatorName=default, ServerHitBin delegatorName=default
+2019-10-21 16:03:05,995 |jsse-nio-8443-exec-4 |ControlServlet                |T| [[[main(Domain:https://localhost)] Request Done- total:4.672,since last([main(Domain:http...):4.672]]
+2019-10-21 16:03:07,811 |jsse-nio-8443-exec-2 |ControlServlet                |T| [[[login(Domain:https://localhost)] Request Begun, encoding=[UTF-8]- total:0.0,since last(Begin):0.0]]
+2019-10-21 16:03:07,815 |jsse-nio-8443-exec-2 |LoginWorker                   |I| Setting default delegator
+2019-10-21 16:03:08,099 |jsse-nio-8443-exec-2 |GenericDAO                    |T| Ran query in 276 milli-seconds:  EntityName: UserLogin Sql: SELECT USER_LOGIN_ID, CURRENT_PASSWORD, PASSWORD_HINT, IS_SYSTEM, ENABLED, HAS_LOGGED_OUT, REQUIRE_PASSWORD_CHANGE, LAST_CURRENCY_UOM, LAST_LOCALE, LAST_TIME_ZONE, DISABLED_DATE_TIME, SUCCESSIVE_FAILED_LOGINS, EXTERNAL_AUTH_ID, USER_LDAP_DN, DISABLED_BY, LAST_UPDATED_STAMP, LAST_UPDATED_TX_STAMP, CREATED_STAMP, CREATED_TX_STAMP, PARTY_ID FROM public.USER_LOGIN WHERE ((USER_LOGIN_ID = ?)) where clause:[USER_LOGIN_ID=admin]
+2019-10-21 16:03:08,254 |jsse-nio-8443-exec-2 |ServiceDispatcher             |T| Sync service [catalog/userLogin] finished in [438] milliseconds
+2019-10-21 16:03:08,255 |jsse-nio-8443-exec-2 |VisitHandler                  |I| Found visitorId [10000] in cookie
+2019-10-21 16:03:08,264 |jsse-nio-8443-exec-2 |ServiceDispatcher             |T| Sync service [catalog/setUserPreference] finished in [4] milliseconds
+2019-10-21 16:03:08,337 |jsse-nio-8443-exec-2 |ServiceDispatcher             |T| Sync service [catalog/getUserPreference] finished in [2] milliseconds
+2019-10-21 16:03:08,340 |jsse-nio-8443-exec-2 |ServiceDispatcher             |T| Sync service [catalog/getUserPreference] finished in [3] milliseconds
+2019-10-21 16:03:08,420 |jsse-nio-8443-exec-2 |RequestHandler                |I| Ran Event [java:org.apache.ofbiz.webapp.control.LoginWorker#login] from [request], result is [success]
+2019-10-21 16:03:08,425 |jsse-nio-8443-exec-2 |RequestHandler                |I| [Doing Previous Request]: /main Hidden sessionId by default.
+2019-10-21 16:03:08,426 |jsse-nio-8443-exec-2 |RequestHandler                |I| Sending redirect to: [https://localhost:8443/catalog/control/main].  Hidden sessionId by default.
+2019-10-21 16:03:08,433 |jsse-nio-8443-exec-2 |ServerHitBin                  |I| Visit delegatorName=default, ServerHitBin delegatorName=default
+2019-10-21 16:03:08,445 |jsse-nio-8443-exec-2 |ControlServlet                |T| [[[login(Domain:https://localhost)] Request Done- total:0.634,since last([login(Domain:htt...):0.634]]
+2019-10-21 16:03:08,450 |jsse-nio-8443-exec-4 |ControlServlet                |T| [[[main(Domain:https://localhost)] Request Begun, encoding=[UTF-8]- total:0.0,since last(Begin):0.0]]
+2019-10-21 16:03:08,515 |jsse-nio-8443-exec-4 |RequestHandler                |I| Rendering View [main].  Hidden sessionId by default.
+2019-10-21 16:03:08,520 |jsse-nio-8443-exec-4 |ServiceDispatcher             |T| Sync service [catalog/getUserPreferenceGroup] finished in [3] milliseconds
+2019-10-21 16:03:08,525 |jsse-nio-8443-exec-4 |PrimaryKeyFinder              |I| Returning null because found incomplete primary key in find: [GenericEntity:Product][productId,null()]
+2019-10-21 16:03:08,537 |jsse-nio-8443-exec-4 |ServiceDispatcher             |T| Sync service [catalog/getLastSystemInfoNote] finished in [2] milliseconds
+2019-10-21 16:03:09,578 |jsse-nio-8443-exec-4 |CategoryServices              |E| null
+2019-10-21 16:03:09,579 |jsse-nio-8443-exec-4 |ServiceDispatcher             |T| Sync service [catalog/getProductCategoryAndLimitedMembers] finished in [5] milliseconds
+2019-10-21 16:03:09,620 |jsse-nio-8443-exec-4 |ServerHitBin                  |I| Visit delegatorName=default, ServerHitBin delegatorName=default
+2019-10-21 16:03:09,637 |jsse-nio-8443-exec-4 |ControlServlet                |T| [[[main(Domain:https://localhost)] Request Done- total:1.187,since last([main(Domain:http...):1.187]]
+2019-10-21 17:03:30,931 |Catalina-utility-1   |ControlEventListener          |I| Destroying session:  hidden sessionId by default.
+2019-10-21 17:45:52,716 |Thread-0             |ContainerLoader               |I| Shutting down containers
+2019-10-21 17:45:52,735 |Thread-0             |ContainerLoader               |I| Stopping container catalina-container
+2019-10-21 17:45:52,775 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: catalog
+2019-10-21 17:45:52,775 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: catalog
+2019-10-21 17:45:52,778 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: workeffort
+2019-10-21 17:45:52,778 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: workeffort
+2019-10-21 17:45:52,781 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: accounting
+2019-10-21 17:45:52,781 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: accounting
+2019-10-21 17:45:52,784 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: content
+2019-10-21 17:45:52,784 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: content
+2019-10-21 17:45:52,787 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: patanjali
+2019-10-21 17:45:52,787 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: patanjali
+2019-10-21 17:45:52,791 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: setup
+2019-10-21 17:45:52,791 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: setup
+2019-10-21 17:45:52,795 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: webtools
+2019-10-21 17:45:52,795 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: webtools
+2019-10-21 17:45:52,798 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: manufacturing
+2019-10-21 17:45:52,798 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: manufacturing
+2019-10-21 17:45:52,804 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: order
+2019-10-21 17:45:52,804 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: order
+2019-10-21 17:45:52,810 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: Humanres
+2019-10-21 17:45:52,810 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: Humanres
+2019-10-21 17:45:52,811 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: ap
+2019-10-21 17:45:52,811 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: ap
+2019-10-21 17:45:52,816 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: marketing
+2019-10-21 17:45:52,816 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: marketing
+2019-10-21 17:45:52,817 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: ar
+2019-10-21 17:45:52,818 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: ar
+2019-10-21 17:45:52,821 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: ical
+2019-10-21 17:45:52,821 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: ical
+2019-10-21 17:45:52,824 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: sfa
+2019-10-21 17:45:52,825 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: sfa
+2019-10-21 17:45:52,829 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: accounts
+2019-10-21 17:45:52,829 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: accounts
+2019-10-21 17:45:52,836 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: facility
+2019-10-21 17:45:52,836 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: facility
+2019-10-21 17:45:52,838 |Thread-0             |ServiceContainer              |I| Removing from cache dispatcher: partymgr
+2019-10-21 17:45:52,838 |Thread-0             |ServiceDispatcher             |I| De-Registering dispatcher: partymgr
+2019-10-21 17:45:52,848 |Thread-0             |ContainerLoader               |I| Stopped container catalina-container
+2019-10-21 17:45:52,848 |Thread-0             |ContainerLoader               |I| Stopping container service-container
+2019-10-21 17:45:52,848 |Thread-0             |JobPoller                     |I| Shutting down JobPoller.
+2019-10-21 17:45:52,848 |Thread-0             |JobPoller                     |I| JobPoller shutdown completed.
+2019-10-21 17:45:52,848 |OFBiz-JobPoller      |JobPoller                     |I| JobPoller thread stopped.
